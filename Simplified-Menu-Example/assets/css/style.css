@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    background: whitesmoke;
+    font-family: 'Poppins';
+    color: #78909c;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.s-menu-items li:nth-child(n){
+    font-weight: bold;
+}
